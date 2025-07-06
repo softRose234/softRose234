@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I am Rose C. I am a Data Analyst and a Frontend Dev</h2>
+<h1 align="left">Hi 👋, I am Rose C. I am a Data Analyst and a Frontend Dev</h1>
 
 
 <div align="center">
