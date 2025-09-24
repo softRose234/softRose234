@@ -12,7 +12,7 @@ Empower organizations and individuals to make smarter, data-driven decisions by 
 
 ---
 
-##🧠 Skills
+## 🧠 Skills
 
 ### 📊 Data Analysis
 - Data Cleaning & Preprocessing
