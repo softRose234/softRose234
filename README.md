@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I am Cletus Rosemary. I am a Data Analyst and a Front-End Developer.</h1>
 
-#👋 About Me
+## 👋 About Me
 
 Hi there! I'm [Cletus Rosemary], a passionate **Data Analyst** with a strong foundation in **Frontend Development**. I thrive on turning complex data into actionable insights and intuitive visualizations. While my main focus is on data — collecting it, cleaning it, analyzing it, and visualizing it — I also bring a creative edge with my frontend skills to build user-friendly dashboards and web interfaces.
 
