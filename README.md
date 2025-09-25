@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm [Cletus Rosemary], a passionate **Data Analyst** with a strong foundation in **Frontend Development**. I thrive on turning complex data into actionable insights and intuitive visualizations. While my main focus is on data — collecting it, cleaning it, analyzing it, and visualizing it — I also bring a creative edge with my frontend skills to build user-friendly dashboards and web interfaces.
+Hi there! I'm Cletus Rosemary, a passionate **Data Analyst** with a strong foundation in **Frontend Development**. I thrive on turning complex data into actionable insights and intuitive visualizations. While my main focus is on data — collecting it, cleaning it, analyzing it, and visualizing it — I also bring a creative edge with my frontend skills to build user-friendly dashboards and web interfaces.
 
 ---
 
@@ -22,8 +22,8 @@ Empower organizations and individuals to make smarter, data-driven decisions by 
 - Report Writing & Dashboarding
 
 ### 🧮 Data Tools & Languages
-- **Excel / Google Sheets**
-- **Power BI** / **Tableau**
+- **Excel**
+- **Power BI** 
 
 ### 💻 Frontend Development
 - HTML5, CSS3, JavaScript
